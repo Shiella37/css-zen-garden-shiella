@@ -8,7 +8,7 @@ body {
   background: url(https://images.unsplash.com/photo-1604947950612-e2b6aba50a6e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1053&q=80);
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: center top;
+  background-position: cover;
 }
 
 div h3 {
@@ -52,6 +52,7 @@ abbr {
   .topnav {
   background-color: #333;
   overflow: hidden;
+  position: center;
 }
 
 .topnav a {
