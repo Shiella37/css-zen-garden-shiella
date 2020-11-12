@@ -1,5 +1,5 @@
 html {
-	margin: 0;
+	margin: 20px;
 	padding: 0;
 	}
 body {
@@ -20,9 +20,11 @@ div h3 {
 }
 
 header h1 {
+  background-color: white;
   font-size: 60px;
   color: orangered;
   text-align: center;
+  
 }
 
 header h2 {
